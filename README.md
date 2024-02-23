@@ -1,2 +1,2 @@
 # C206-A
-Códigos de POO
+Códigos de POO (Teoria)
